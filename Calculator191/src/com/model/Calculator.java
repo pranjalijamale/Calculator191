@@ -6,5 +6,10 @@ public class Calculator {
 	{
 		System.out.println("Division "+(20/5));
 	}
+	
+	public void addition()
+	{
+		System.out.println("Addition"+(10+20));
+	}
 
 }
