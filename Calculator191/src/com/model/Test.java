@@ -7,6 +7,6 @@ public class Test {
 		
 		Calculator cal = new Calculator();
 		  
-		
+		cal.multiplication();
 	}
 }
