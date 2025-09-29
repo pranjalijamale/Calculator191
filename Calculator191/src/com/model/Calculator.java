@@ -20,4 +20,7 @@ public class Calculator {
 		
 		System.out.println("Subtraction" +(10-3));
 	}
+	public void m1() {
+		System.out.println("m1");
+	}
 }

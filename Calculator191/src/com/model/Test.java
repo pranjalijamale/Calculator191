@@ -11,6 +11,6 @@ public class Test {
 		cal.multiplication();
 		 cal.addition();
 		 cal.subtraction();
-		
+		cal.m1();
 	}
 }
