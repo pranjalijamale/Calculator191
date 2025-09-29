@@ -10,4 +10,9 @@ public class Calculator {
 	public void multiplication() {
 		System.out.println("Multiplication" +(10*3));
 	}
+	
+	public void addition() {
+		
+		System.out.println("Addition" +(10+20));
+	}
 }
