@@ -10,6 +10,7 @@ public class Test {
 		cal.division();
 		cal.multiplication();
 		 cal.addition();
+		 cal.subtraction();
 		
 	}
 }

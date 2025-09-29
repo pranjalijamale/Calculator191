@@ -15,4 +15,9 @@ public class Calculator {
 		
 		System.out.println("Addition" +(10+20));
 	}
+	
+	public void subtraction() {
+		
+		System.out.println("Subtraction" +(10-3));
+	}
 }
