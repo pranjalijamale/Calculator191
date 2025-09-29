@@ -7,4 +7,7 @@ public class Calculator {
 		System.out.println("Division "+(20/5));
 	}
 
+	public void multiplication() {
+		System.out.println("Multiplication" +(10*3));
+	}
 }

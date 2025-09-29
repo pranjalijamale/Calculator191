@@ -8,6 +8,7 @@ public class Test {
 		Calculator cal = new Calculator();
 		
 		cal.division();
+		cal.multiplication();
 		  
 		
 	}
