@@ -2,13 +2,15 @@ package com.model;
 
 public class Calculator {
 	
+	public void Addition()
+	{
+		System.out.println("Addition "+(10+20));
+	}
+	
 	
 	public void multiplication() {
-		
-	int p=10;
-	int q=2;
-	
-	System.out.println(p/q);
+
+	System.out.println(10/2);
 		
 	}
 
