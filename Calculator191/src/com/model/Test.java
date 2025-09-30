@@ -11,6 +11,10 @@ public class Test {
 		
 		cal.addition();
 		  
+
+		cal.multiplication();
+		 cal.addition();
+
 		
 	}
 }
