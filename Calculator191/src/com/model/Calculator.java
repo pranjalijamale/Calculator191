@@ -21,5 +21,17 @@ public class Calculator {
 		System.out.println("Mod"+(10%3));
 	}
 	
+
+	public void subtraction() {
+		
+		System.out.println("Subtraction" +(10-3));
+	}
+	public void m1() {
+		System.out.println("m1");
+	}
+    public void m2(){
+		System.out.println("m2");
+	}
+
 	
 }
