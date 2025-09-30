@@ -18,7 +18,7 @@ public class Calculator {
 	
 	public void mod()
 	{
-		System.out.println("Mod"+(10%3));
+		System.out.println("Mod="+(10%3));
 	}
 	
 
