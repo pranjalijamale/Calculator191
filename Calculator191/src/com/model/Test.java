@@ -14,6 +14,8 @@ public class Test {
 
 		cal.multiplication();
 		 cal.addition();
+		 
+		 cal.mod();
 
 		
 	}
